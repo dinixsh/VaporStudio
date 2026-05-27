@@ -1,0 +1,82 @@
+:root {
+    --border-radius: 4px;
+    --border-radius2x: 8px;
+    --default: #888;
+}
+
+/* Skin Colors - Cyber-Vapor Night Palette */
+:root {
+    /* PRIMARY: Violeta Eléctrico Juvenil (#8a2be2) */
+    --primary: #8a2be2;
+    --primary-100: #7b27cb;
+    --primary-200: #6620a9;
+    --primary-300: #511986;
+    --primary--100: #9640e5;
+    --primary--200: #a75eed;
+    --primary--300: #bc82f3;
+    --primary-rgba-0: rgba(138, 43, 226, 0);
+    --primary-rgba-10: rgba(138, 43, 226, 0.1);
+    --primary-rgba-20: rgba(138, 43, 226, 0.2);
+    --primary-rgba-30: rgba(138, 43, 226, 0.3);
+    --primary-rgba-40: rgba(138, 43, 226, 0.4);
+    --primary-rgba-50: rgba(138, 43, 226, 0.5);
+    --primary-rgba-60: rgba(138, 43, 226, 0.6);
+    --primary-rgba-70: rgba(138, 43, 226, 0.7);
+    --primary-rgba-80: rgba(138, 43, 226, 0.8);
+    --primary-rgba-90: rgba(138, 43, 226, 0.9);
+
+    /* SECONDARY: Ultra Dark Mode (#050505) */
+    --secondary: #050505;
+    --secondary-100: #0a0a0a;
+    --secondary-200: #0f0f0f;
+    --secondary-300: #000000;
+    --secondary--100: #151515;
+    --secondary--200: #1f1f1f;
+    --secondary--300: #2a2a2a;
+    --secondary-rgba-0: rgba(5, 5, 5, 0);
+    --secondary-rgba-50: rgba(5, 5, 5, 0.5);
+    --secondary-rgba-90: rgba(5, 5, 5, 0.9);
+
+    /* TERTIARY: Ciruela Profundo / Índigo Oscuro (#2d005e) */
+    --tertiary: #2d005e;
+    --tertiary-100: #25004d;
+    --tertiary-200: #1c003a;
+    --tertiary-300: #110024;
+    --tertiary--100: #3c007d;
+    --tertiary--200: #4b009c;
+    --tertiary--300: #5a00bc;
+
+    /* QUATERNARY: Blanco Platino Neón (#f0f0f5) */
+    --quaternary: #f0f0f5;
+    --quaternary-100: #e1e1e8;
+    --quaternary-200: #d2d2db;
+    --quaternary-300: #c3c3ce;
+    --quaternary--100: #f7f7fa;
+    --quaternary--200: #fbfbfd;
+    --quaternary--300: #ffffff;
+}
+
+/* Skin Colors - Inverse */
+:root {
+    --primary-inverse: #ffffff;
+    --secondary-inverse: #ffffff;
+    --tertiary-inverse: #ffffff;
+    --quaternary-inverse: #050505;
+    --dark-inverse: #ffffff;
+    --light-inverse: #050505;
+}
+
+/* Grey Colors - Tonos fríos de alta legibilidad */
+:root {
+    --grey: #a0a0af;
+    --grey-100: #f8f8fb;
+    --grey-200: #efeff4;
+    --grey-300: #e6e6ed;
+    --grey-400: #dddde6;
+    --grey-500: #d4d4df;
+    --grey-600: #c8c8d4;
+    --grey-700: #bdbdc9;
+    --grey-800: #a9a9b8;
+    --grey-900: #9393a5;
+    --grey-1000: #7d7d92;
+}
